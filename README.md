@@ -1,4 +1,4 @@
-[![MasterHead](https://images.alphacoders.com/121/1218911.jpg)]
+![MasterHead](https://images.alphacoders.com/121/1218911.jpg)
 <h1 align="center">Hi 👋, I'm Harisankar</h1>
 <h3 align="center">Full Stack Web Developer Specializing in MERN Stack | Crafting Innovative & User-Friendly Websites 🚀</h3>
 <img align="right" alt="Coding" width="400"
