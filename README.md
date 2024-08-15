@@ -18,7 +18,7 @@ src="https://i.pinimg.com/originals/91/90/8a/91908ad2f9aef293ed840739a291e9db.gi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hari sankar s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari sankar s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hari-sankar-s-439470273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari sankar s" height="30" width="40" /></a>
 <a href="https://fb.com/hari sankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hari sankar" height="30" width="40" /></a>
 <a href="https://instagram.com/_hari.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_hari.___" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harisankar705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harisankar705" height="30" width="40" /></a>
